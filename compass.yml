@@ -1,0 +1,13 @@
+name: cli
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/d761eb5b-237f-4778-a5c7-d9a2c267e6e4
+description: A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
